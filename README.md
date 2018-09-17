@@ -1,12 +1,11 @@
 # up-robotics-dev-setup-practice
 
 This repo is a hello world python repo for the purpose of getting all members of the 2018-2019 UP Robotics Club CS/EE team up to speed with our git workflow and python dev.
-
 ** if ANYTHING is confusing please ask! **
 
-## link to install git:
+## install git if you don't have it:
 
-link_goes_here
+https://help.github.com/articles/set-up-git/
 
 These are the steps we will be using all year:
 
@@ -19,6 +18,7 @@ These are the steps we will be using all year:
 7. PUSH to your forked repo
 8. Make a PULL REQUEST with the master repo 
 9. Someone else should CHECKOUT the pull request, test it and then merge it in.
+
 
 ## FORK the repo 
 
