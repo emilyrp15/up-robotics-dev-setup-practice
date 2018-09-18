@@ -14,7 +14,8 @@
 
 # a very basic main method. TODO: new people add new things please
 def main():
-    print ( "I did a thing")
+    print ( "Todokete Setsuna sa ni wa")
+    print ("Ok this is getting old")
 
 
 # Python magic to make the main method run 
