@@ -15,12 +15,17 @@
 
 # a very basic main method. TODO: new people add new things please
 def main():
+
+    print ( "Todokete Setsuna sa ni wa")
+    print ("Ok this is getting old")
+
     print ( "I did a thing")
     print("yuhhh")
 
     print ("Hello World!!")
 
     print ( "You know what you did TODD HOWARD. I will not buy skyrim again.")
+
 
 
 
